@@ -1,0 +1,16 @@
+{
+  "name": "largeimgwarningplugin",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YDSS/large-img-warning-plugin.git"
+  },
+  "description": "A webpack plugin can watch large images and console them with pretty colors in the warning field of webpack stats",
+  "keywords": "webpack, plugin, image, warning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YDSS",
+  "license": "ISC"
+}
