@@ -1,6 +1,6 @@
 {
-  "name": "largeimgwarningplugin",
-  "version": "1.0.1",
+  "name": "large-imgs-warning-plugin",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/YDSS/large-img-warning-plugin.git"
